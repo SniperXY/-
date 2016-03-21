@@ -1,0 +1,10 @@
+# coding=gbk
+'''
+Created on 2016Äê3ÔÂ21ÈÕ
+
+@author: PC
+'''
+A=10;
+B=10;
+C=A+B;
+print(C)
